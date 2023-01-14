@@ -34,7 +34,7 @@ Note to Users:
 
 ABOUT THE PROJECT:
 ------------------
-This folder contains Python module files which can be used to simulate ideal gas 
+This repository contains Python module files which can be used to simulate ideal gas 
 collisions inside a rigid container in 2D and generate an animation of collision 
 events to provide visual instuition and numerical results for various 
 relationships. This folder contains .py files with the following modules:

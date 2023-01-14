@@ -1,7 +1,7 @@
 """
 Created on Fri Nov 11 18:25:33 2022
 
-@author: hk621
+@author: Hiroki
 """
 import numpy as np
 import pylab as pl

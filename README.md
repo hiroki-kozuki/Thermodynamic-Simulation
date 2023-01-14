@@ -42,7 +42,7 @@ relationships. This folder contains .py files with the following modules:
 
 Modules:
 --------
-- Ball.py
+- Ball.py:
 	Contains the Ball class which initialises the ball and container objects. 
 	Ball class includes methods that can access and update the position an 
 	velocities of the ball objects, as well as a method that calculate the 
@@ -50,7 +50,7 @@ Modules:
 	time, and a method that can update the ball obejcts' velocities after 
 	collision. Full list of methods can be seen in the docstrings.
 
-- Simulation.py
+- Simulation.py:
 	Contains the Simulation class which initialises the simulation object by 
 	initialising a container object and multiple ball objects with randomly 
 	generated initial positions and velocities. Simulation class includes 
@@ -60,7 +60,7 @@ Modules:
 	of frames and outputs animation as well as figures. Full list of methods 
 	can be seen in the docstrings.
 	
-- Figure.py
+- Figure.py:
 	Contains functions which initialise the Simulation class and plot simulation 
 	data with least squares fits to characterise the relationships of ideal 
 	gases. It can be used to generate a plot of Pressure vs. Temperature for a 
@@ -69,11 +69,11 @@ Modules:
 	on a Pressure vs. Temperature graph. Full list of methods can be seen in 
 	the docstrings.
 
-- Investigations Script.py
+- Investigations Script.py:
 	Contains Scripts for running the animation and plotting figures for the 
 	investigation section of the project.
 
-- Tests.py
+- Tests.py:
 	Contains Scrips for unit testing and integrating testing of various methods 
 	and classes, making sure that they work both individually and together in a 
 	sequence.

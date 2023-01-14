@@ -1,7 +1,7 @@
 """
 Created on Fri Nov 18 09:14:54 2022
 
-@author: hk621
+@author: Hiroki
 """
 
 import numpy as np

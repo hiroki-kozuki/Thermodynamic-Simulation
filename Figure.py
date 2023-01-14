@@ -1,7 +1,7 @@
 """
 Created on Fri Dec 02 20:11:47 2022
 
-@author: hk621
+@author: Hiroki
 """
 import numpy as np
 from scipy.optimize import curve_fit

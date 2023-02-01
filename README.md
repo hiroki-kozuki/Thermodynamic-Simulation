@@ -45,8 +45,8 @@ Modules:
 - Ball.py:
 	Contains the Ball class which initialises the ball and container objects. 
 	Ball class includes methods that can access and update the position an 
-	velocities of the ball objects, as well as a method that calculate the 
-	time until two objects collide, a method which moves objects by specified 
+	velocities of the ball objects, as well as a method that calculates the 
+	time until two objects collide, a method which moves objects by a specified 
 	time, and a method that can update the ball obejcts' velocities after 
 	collision. Full list of methods can be seen in the docstrings.
 

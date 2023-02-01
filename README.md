@@ -48,7 +48,7 @@ Modules:
 	velocities of the ball objects, as well as a method that calculates the 
 	time until two objects collide, a method which moves objects by a specified 
 	time, and a method that can update the ball obejcts' velocities after 
-	collision. Full list of methods can be seen in the docstrings.
+	collision. Full list of methods can be found in the docstrings.
 
 - Simulation.py:
 	Contains the Simulation class which initialises the simulation object by 
@@ -58,15 +58,15 @@ Modules:
 	inside the container, a method which finds and executes the next collision 
 	in the simualtion, a method which iterates collision for a given number 
 	of frames and outputs animation as well as figures. Full list of methods 
-	can be seen in the docstrings.
+	can be found in the docstrings.
 	
 - Figure.py:
 	Contains functions which initialise the Simulation class and plot simulation 
-	data with least squares fits to characterise the relationships of ideal 
+	data with least-squares fits to characterise the relationships of ideal 
 	gases. It can be used to generate a plot of Pressure vs. Temperature for a 
 	range of particle radii, a histogram of particle speeds with a 
-	Maxwell-Boltzmann fit, and generate a fit based on van der Waals' equation 
-	on a Pressure vs. Temperature graph. Full list of methods can be seen in 
+	Maxwell-Boltzmann fit, and a fit based on the van der Waals' equation 
+	over a Pressure vs. Temperature graph. Full list of methods can be found in 
 	the docstrings.
 
 - Investigations Script.py:
@@ -74,7 +74,7 @@ Modules:
 	investigation section of the project.
 
 - Tests.py:
-	Contains Scrips for unit testing and integrating testing of various methods 
+	Contains Scrips for unit testing and integration testing of various methods 
 	and classes, making sure that they work both individually and together in a 
 	sequence.
 

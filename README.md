@@ -17,7 +17,7 @@ Note to Users:
 
   in the console. 
 
-- If the animation still does not work, try changing the graphics backend:
+- If the animation still doesn't work, try changing the graphics backend:
 
 	- Windows 10: 
 	  Tools -> Preferences -> IPython console -> graphics -> graphics backend
